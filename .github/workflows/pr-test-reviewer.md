@@ -1,6 +1,6 @@
 ---
 description: Review pull requests for missing tests
-model: gpt-5-mini
+model: gpt-4.1
 on:
   pull_request:
     types: [opened, synchronize]
